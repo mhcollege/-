@@ -120,7 +120,7 @@ nav > div {
 /*home page for mobile screeen */
 header >section{
 	display: flex;
-	height: 90vh;
+/* 	height: 90vh; */
 	flex-direction: column-reverse;
 	justify-content: center;
 }
